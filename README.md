@@ -1,6 +1,6 @@
 # Spark Taxi Data Generator
 
-Generates data based on multiple datasets.
+Generates a London taxi data based on multiple datasets.
 
 ## Generated dataset schema:
   * String id;
@@ -49,3 +49,6 @@ Results:
 1. Number of rows in the generated dataset: 31474600
 2. Size: 1.9G
 3. Time spent to generate the dataset: 43.73 seconds
+
+## "Anatomical" example
+https://colab.research.google.com/drive/1D8Y5RLbuuxiJRp4LLXV6hvLyZDGpp7_2?usp=sharing
