@@ -51,4 +51,5 @@ Results:
 3. Time spent to generate the dataset: 43.73 seconds
 
 ## "Anatomical" example
-https://colab.research.google.com/drive/1D8Y5RLbuuxiJRp4LLXV6hvLyZDGpp7_2?usp=sharing
+[<-click me to see the Colab Environment->](https://colab.research.google.com/drive/1D8Y5RLbuuxiJRp4LLXV6hvLyZDGpp7_2?usp=sharing)
+
