@@ -14,7 +14,6 @@ By: Team#8 - Goncharuk, Kyrychenko, Trubaichuk
   * String dropoffPostcode;
   * String dropoffLongitude;
   * String dropoffAltitude;
-  * Coordinates dropOffCoordinates;
   * LocalDateTime pickupDateTime;
   * LocalDateTime dropoffDateTime;
   * float cost;
