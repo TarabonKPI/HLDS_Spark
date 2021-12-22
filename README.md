@@ -1,7 +1,8 @@
 # Spark Taxi Data Generator
 
 Generates a London taxi data based on multiple datasets.
-By Team#8
+
+By: Team#8 - Goncharuk, Kyrychenko, Trubaichuk
 
 ## Generated dataset schema:
   * String id;
